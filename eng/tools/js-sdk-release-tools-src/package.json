@@ -72,6 +72,7 @@
     "@typespec/compiler": "^1.0.0"
   },
   "overrides": {
+    "temporal-polyfill": "1.0.1",
     "front-matter": {
       "js-yaml": "^5.2.1"
     }
