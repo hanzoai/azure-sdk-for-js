@@ -73,6 +73,7 @@
   },
   "overrides": {
     "temporal-polyfill": "1.0.1",
+    "minimatch@^10.0.0": "10.2.4",
     "front-matter": {
       "js-yaml": "^5.2.1"
     }
