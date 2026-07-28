@@ -32,14 +32,25 @@
   "type": "module",
   "dependencies": {
     "@azure-tools/openapi-tools-common": "^1.2.2",
+<<<<<<< HEAD
     "@npmcli/package-json": "^7.0.5",
+=======
+    "@npmcli/package-json": "^8.0.0",
+    "colors": "1.4.0",
+>>>>>>> origin/main
     "command-line-args": "^6.0.1",
     "comment-json": "^5.0.0",
     "copyfiles": "^2.4.1",
     "fs-extra": "^11.3.0",
     "glob": "^13.0.6",
+<<<<<<< HEAD
     "js-yaml": "^5.2.1",
     "npm-registry-fetch": "^19.1.1",
+=======
+    "js-yaml": "^4.1.0",
+    "minimatch": "^10.2.4",
+    "npm-registry-fetch": "^20.0.1",
+>>>>>>> origin/main
     "parse-ts-to-ast": "^0.1.4",
     "semver": "^7.7.1",
     "shelljs": "^0.10.0",
